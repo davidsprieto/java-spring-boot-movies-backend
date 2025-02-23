@@ -1,1 +1,1 @@
-# Java Movies API Backend
+# Java Spring Boot Movies Backend
